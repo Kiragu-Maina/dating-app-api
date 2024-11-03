@@ -45,7 +45,7 @@ This repository contains the codebase for a backend API of a dating app, built u
 
 4. **Run Docker Compose to Start PostgreSQL:**
    ```bash
-   docker-compose up -d
+   docker compose up -d
    ```
 
 5. **Apply Database Migrations:**
